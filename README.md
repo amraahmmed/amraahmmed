@@ -10,23 +10,22 @@
 - 🌱 I’m currently learning **Flutter, Dart**
 - 💬 Ask me about **Flutter, UI/UX, Mobile Apps, and Software Development**
 - 📫 How to reach me: **mero.ahmed1128@gmail.com**
-- ⚡ Fun fact: I like mixing coding with fun & creativity 😎
 
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/your-link" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="www.linkedin.com/in/amraahmmed" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 <a href="https://github.com/amraahmmed" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
 <a href="mailto:mero.ahmed1128@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-<a href="https://dribbble.com/your-link" target="blank"><img align="center" src="https://skillicons.dev/icons?i=figma" height="40" /></a>
+<a href="https://www.behance.net/amrahmed292" target="blank"><img align="center" src="https://skillicons.dev/icons?i=behance" height="40" /></a>
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools:
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=flutter,dart,figma,xd,cs,dotnet,html,css,js,git,github,firebase,mysql,sqlite,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,figma,c++,html,css,js,python,java,git,github,mysql,sqlite,mangodb,,vscode,androidstudio" />
 </p>
 
 ---
