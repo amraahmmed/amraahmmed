@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Amr</h1>
-<h3 align="center">Software Engineer | .NET Developer</h3>
+<h1 align="center">Hi 👋, I'm Amr Ahmed</h1>
+<h3 align="center">Flutter Developer | Ui/UX Designer</h3>
 
 ---
 
 - 🌱 I’m currently learning **.NET, C#, React**
 - 💬 Ask me about **.NET, SQL, and Software Development**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **mero.ahmed1128@gmail.com**
 - ⚡ Fun fact: I like mixing coding with fun & creativity 😎
 
 ---
