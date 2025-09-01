@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Flutter, Dart, .NET, C#**
+- 🌱 I’m currently learning **Flutter, Dart**
 - 💬 Ask me about **Flutter, UI/UX, Mobile Apps, and Software Development**
 - 📫 How to reach me: **mero.ahmed1128@gmail.com**
 - ⚡ Fun fact: I like mixing coding with fun & creativity 😎
