@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Flutter, Dart**
+- 🌱 I’m currently learning **Flutter, Dart, Figma**
 - 💬 Ask me about **Flutter, UI/UX, Mobile Apps, and Software Development**
 - 📫 How to reach me: **mero.ahmed1128@gmail.com**
 
@@ -33,13 +33,21 @@
 
 ### 📄 Resume:
 <p align="center">
-  <a href="https://drive.google.com/YOUR_CV_LINK" target="_blank">
+  <a href="https://drive.google.com/drive/u/0/my-drive" target="_blank">
     <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Download CV" />
   </a>
 </p>
 
 ---
 
+### 💼 Portfolio
+<p align="center">
+  <a href="https://github.com/amraahmmed?tab=repositories" target="blank">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
 ### 🛠️ Languages & Tools:
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=flutter,dart,figma,cpp,html,css,js,python,java,git,github,mysql,sqlite,mongodb,vscode,androidstudio" />
