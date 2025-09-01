@@ -15,7 +15,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="www.linkedin.com/in/amraahmmed" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="https://www.linkedin.com/in/amraahmmed" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 <a href="https://github.com/amraahmmed" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
 <a href="mailto:mero.ahmed1128@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
 <a href="https://www.behance.net/amrahmed292" target="blank"><img align="center" src="https://skillicons.dev/icons?i=behance" height="40" /></a>
@@ -25,7 +25,7 @@
 
 ### 🛠️ Languages & Tools:
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=flutter,dart,figma,c++,html,css,js,python,java,git,github,mysql,sqlite,mangodb,,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,figma,xd,cpp,html,css,js,python,java,git,github,mysql,sqlite,mongodb,vscode,androidstudio" />
 </p>
 
 ---
