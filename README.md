@@ -25,7 +25,7 @@
 
 ### 🛠️ Languages & Tools:
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=flutter,dart,figma,xd,cpp,html,css,js,python,java,git,github,mysql,sqlite,mongodb,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,figma,cpp,html,css,js,python,java,git,github,mysql,sqlite,mongodb,vscode,androidstudio" />
 </p>
 
 ---
