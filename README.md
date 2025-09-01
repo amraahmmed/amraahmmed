@@ -33,7 +33,7 @@
 
 ### 📄 Resume:
 <p align="center">
-  <a href="https://drive.google.com/drive/u/0/my-drive" target="_blank">
+  <a href="https://drive.google.com/drive/u/0/folders/1lj0VYZnfVn_w2WqQaZpo7HMZ0sdOQetf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Download CV" />
   </a>
 </p>
